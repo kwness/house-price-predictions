@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge - Kyle Ness
+# Ames Housing Data and Kaggle Challenge - Kyle Ness
 
 There are a lot of factors that go into the pricing of residential real estate. Some of these may be obvious and their effects on price well-known, like the total area of a home in square feet or the number of bedrooms and baths the house has. Others, however, may be more abstract or subjectively valued, like whether a house has a masonry veneer or how long the frontage of the house's lot is. Further, there may be many significant interactions between the independent variables of a house that also affect valuation. 
 
